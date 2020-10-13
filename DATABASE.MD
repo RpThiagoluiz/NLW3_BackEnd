@@ -1,0 +1,1 @@
+BEEKEEPER Studio para ve as tabelas criadas no database.
